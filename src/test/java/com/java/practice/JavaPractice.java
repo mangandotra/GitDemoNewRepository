@@ -19,6 +19,8 @@ public class JavaPractice {
 			}
 			System.out.println();
 		}
+		
+		System.out.println("this is git practice- ignore 2");
 	
 	
 	int d =1;
